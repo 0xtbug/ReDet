@@ -1,10 +1,13 @@
 # ReDet - reCAPTCHA Detector
-
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/f7ad6e8a-88c4-4fac-afd3-331020913597" alt="image" width="80" height="auto">
+  <img src="https://github.com/user-attachments/assets/4cb747ae-d081-42fa-a359-f213bbc0a9f2" alt="image" width="420" height
+</div>
+  
 A powerful Chrome extension that detects and analyzes Google reCAPTCHA implementations on websites.
 
 ![Version](https://img.shields.io/badge/version-1.1-blue)
 ![Build](https://img.shields.io/badge/build-27--04--2025-green)
-
 ## Features
 
 - 🔍 Detects both reCAPTCHA v2 and v3
